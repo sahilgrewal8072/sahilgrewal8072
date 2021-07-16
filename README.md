@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a student developer 
+- 🔭 I’m currently working as a student developer at **Wikimedia**
 
-- 🌱 I’m currently learning **Not Everything But yes! something😅**
+- 🌱 I’m currently learning **Not Everything But Yes! Something😅**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
