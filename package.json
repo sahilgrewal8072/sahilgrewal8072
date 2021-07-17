@@ -16,5 +16,7 @@
     "url": "https://github.com/sahilgrewal8072/sahilgrewal8072/issues"
   },
   "homepage": "https://github.com/sahilgrewal8072/sahilgrewal8072#readme",
-  "dependencies": {}
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
 }
