@@ -18,6 +18,13 @@
 
 - ⚡ Fun fact **Compiling🤷‍♂️.....**
 
+## Other Profile
+
+- **[WikiMedia Phabricator](https://phabricator.wikimedia.org/p/Sahilgrewalhere/)** (Bug reporting platform at Wikimedia)
+  
+- **[WikiMedia Gerrit](https://gerrit.wikimedia.org/r/q/Sahilgrewalhere)** (Code review platform at Wikimedia)
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
