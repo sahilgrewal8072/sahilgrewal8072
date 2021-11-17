@@ -1,4 +1,4 @@
-                                                      Today is Wednesday, 17 November, 12:01 CET.
+                                                      Today is Wednesday, 17 November, 12:12 CET.
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
@@ -17,13 +17,6 @@
 - 📫 How to reach me **sahilgrewalhere2001@outlook.com**
 
 - ⚡ Fun fact **Compiling🤷‍♂️.....**
-
-## Other Profile
-
-- **[WikiMedia Phabricator](https://phabricator.wikimedia.org/p/Sahilgrewalhere/)** (Bug reporting platform at Wikimedia)
-  
-- **[WikiMedia Gerrit](https://gerrit.wikimedia.org/r/q/Sahilgrewalhere)** (Code review platform at Wikimedia)
-
 
 ## 🚀 Languages and Tools:
 
