@@ -1,6 +1,6 @@
                                                       Today is Sunday, 10 April, 19:07 CEST.
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Grewal</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer from India.</h3>
