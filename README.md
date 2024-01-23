@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a student developer at **Wikimedia**
+- 🔭 I’m currently pursuing Ms in CS at **NWMSU**
 
-- 🌱 I’m currently learning **Not Everything But Yes! Something😅**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **sahilgrewalhere2001@outlook.com**
+- 📫 How to reach me **S571629@nwmissouri.edu**
 
 - ⚡ Fun fact **Compiling🤷‍♂️.....**
 
